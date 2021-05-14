@@ -1,0 +1,2 @@
+"Medicamento","Mediana_.numero.de.pastillas.generadas."
+"Potassium Chloride",5

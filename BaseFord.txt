@@ -1,0 +1,11 @@
+"Departamento","Marca","Freq"
+"Antioquia","Ford",4
+"Arauca","Ford",0
+"Atlántico","Ford",5
+"Bolívar","Ford",1
+"Cauca","Ford",0
+"Cundinamarca","Ford",0
+"Risaralda","Ford",0
+"Santander","Ford",0
+"Sucre","Ford",0
+"Vaupés","Ford",1
