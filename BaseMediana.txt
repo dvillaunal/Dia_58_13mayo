@@ -1,0 +1,101 @@
+Medicamento,n
+Synthroid,6
+Hydrochlorothiazide,5
+Fluoxetine HCl,2
+Advair Diskus,6
+Famotidine,1
+Hydrocodone/APAP,9
+Alprazolam,6
+Doxycycline Hyclate,1
+Potassium Chloride,1
+Levothyroxine Sodium,8
+Prednisone,8
+Lorazepam,6
+Lexapro,10
+Risperidone,1
+Potassium Chloride,4
+Triamterene/Hydrochlorothiazide,4
+Amlodipine Besylate,3
+Citalopram HBR,3
+Alprazolam,8
+Crestor,2
+Sertraline HCl,5
+Actos,10
+Gabapentin,3
+Atenolol,2
+Losartan Potassium,10
+Vitamin D (Rx),4
+Simvastatin,1
+Carisoprodol,2
+Namenda,10
+Zetia,1
+Zetia,8
+Zyprexa,7
+Gianvi,8
+Atenolol,3
+Azithromycin,4
+Diovan,4
+Lantus Solostar,3
+Amphetamine Salts,9
+Proair HFA,10
+Lantus,2
+Suboxone,6
+Prednisone,6
+Hydrocodone/APAP,5
+Fluticasone Propionate,10
+Atenolol,8
+Lexapro,5
+Hydrocodone/APAP,1
+Paroxetine HCl,10
+Lantus,8
+Amlodipine Besylate,2
+Losartan Potassium,6
+Proair HFA,7
+Zolpidem Tartrate,8
+Carvedilol,6
+Oxycontin,1
+Metoprolol Tartrate ,1
+Simvastatin,1
+Zolpidem Tartrate,5
+Metformin HCl,8
+Atenolol,3
+Metformin HCl,1
+Furosemide,8
+Tricor,1
+Amoxicillin Trihydrate/Potassium Clavulanate,4
+Cialis,8
+Potassium Chloride,5
+Meloxicam,3
+Amlodipine Besylate,9
+Vyvanse,9
+Lipitor,9
+Lorazepam,4
+Lantus,7
+Hydrocodone/APAP,4
+Plavix,8
+Fluticasone Propionate,8
+Furosemide,5
+Crestor,10
+Flovent HFA,4
+Amoxicillin,1
+Fluticasone Propionate,5
+Ciprofloxacin HCl,10
+TriNessa,6
+Sertraline HCl,4
+Hydrocodone/APAP,3
+Clonazepam,8
+Venlafaxine HCl ER,8
+Fluticasone Propionate,1
+LevothyroxineSodium,5
+Hydrocodone/APAP,6
+Lorazepam,9
+Furosemide,10
+Furosemide,9
+Zolpidem Tartrate,7
+Glipizide,2
+LevothyroxineSodium,2
+Potassium Chloride,7
+Simvastatin,4
+Benicar,3
+Amlodipine Besylate,2
+Namenda,4
