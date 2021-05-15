@@ -13,7 +13,7 @@
 
 ## ------------------------------------------------------------------------------------------
 # Cargamos la base de datos:
-basemedia <- read.csv(file = "Basemedia.csv", header = T, sep = ",", dec = ".")
+basemedia <- read.csv(file = "BaseMedia.csv", header = T, sep = ",", dec = ".")
 
 basemedia <- data.frame(basemedia)
 
